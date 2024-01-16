@@ -86,6 +86,10 @@ You will be making regular updates to your forked repositories as we progress th
 
 As part of this workshop, we will frequently refer to resources and documentation available on the Ultralesson website. To facilitate easy access and enhance our learning experience, we have included direct links to relevant sections of the website.
 
+### Resources
+
+[Swagger Documentation](https://www.apicademy.dev/docs/) for detailed API endpoint information and a [Postman collection](https://www.apicademy.dev/postman-collection-download) for practical interaction with the API used within the workshop.
+
 # Master REST Assured Through Our Guided Project
 
 This workshop is anchored around the robust capabilities of REST Assured, a pivotal tool in API testing and automation. To complement the workshop and provide an immersive learning experience, we proudly present our comprehensive [Guided Project on REST Assured](https://ultralesson.ai/guided-projects/07ba6d24-da24-42bb-9fce-de57c6d97378/ac493899-7199-44c4-91f3-f2668cace871) available on UltraLesson.
