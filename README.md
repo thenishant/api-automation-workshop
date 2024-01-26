@@ -90,6 +90,30 @@ As part of this workshop, we will frequently refer to resources and documentatio
 
 [Swagger Documentation](https://www.apicademy.dev/docs/) for detailed API endpoint information and a [Postman collection](https://www.apicademy.dev/postman-collection-download) for practical interaction with the API used within the workshop.
 
+To complete the setup for the Ultralesson API Automation Workshop, you need to install Postman and import the provided collection. Here are the steps to do this:
+
+#### Postman Installation and Setup
+
+1. **Install Postman:**
+   - Visit the [Postman website](https://www.postman.com/downloads/).
+   - Download the version of Postman suitable for your operating system.
+   - Follow the installation instructions.
+
+2. **Open Postman:**
+   - Once installed, launch Postman on your computer.
+
+#### Importing the Collection into Postman
+
+1. **Download the Collection:**
+   - Access the [Postman collection download link](https://www.apicademy.dev/postman-collection-download) provided by Ultralesson.
+   - Download the collection file to your local machine.
+
+2. **Import the Collection:**
+   - In Postman, click on the `Import` button, usually located at the top left of the application.
+   - Select the `File` tab in the dialog box that appears.
+   - Choose the downloaded collection file or simply drag and drop it into the designated area.
+   - Once selected, click `Import` to add the collection to your Postman workspace.
+
 # Master REST Assured Through Our Guided Project
 
 This workshop is anchored around the robust capabilities of REST Assured, a pivotal tool in API testing and automation. To complement the workshop and provide an immersive learning experience, we proudly present our comprehensive [Guided Project on REST Assured](https://ultralesson.ai/guided-projects/07ba6d24-da24-42bb-9fce-de57c6d97378/ac493899-7199-44c4-91f3-f2668cace871) available on UltraLesson.
